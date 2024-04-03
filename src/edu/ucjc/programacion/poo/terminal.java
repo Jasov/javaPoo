@@ -131,7 +131,7 @@ public class terminal {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Bienvenido a tu terminal personalizada.");
+        System.out.println("Bienvenido a tu terminal personalizada:  ");
         System.out.print("$ ");
 
         while (scanner.hasNextLine()) {
@@ -172,4 +172,6 @@ public class terminal {
         }
     }
 }
+
+
 */
